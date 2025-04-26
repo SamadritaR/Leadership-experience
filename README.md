@@ -1,5 +1,8 @@
-# Leadership-experience
-Welcome to a glimpse into my leadership journey — where mentorship, structured learning, and real-world action intersect to build future-ready leadership skills.
+# **Samadrita Roy Chowdhury** - Leadership-experience
+
+Welcome to a glimpse into my leadership journey ! I'm driven by more than just building models and pipelines — I'm passionate about building **people**, **communities**, and **opportunities**.  
+
+Leadership, for me, is about action — creating momentum, removing barriers, and making sure good ideas don’t get lost in the noise.
 
 ---
 
@@ -19,8 +22,9 @@ Welcome to a glimpse into my leadership journey — where mentorship, structured
 
 **Role:** Secretary | Business Analytics Club | California State University, East Bay
 
-- Managing communications and event logistics for a student organization of 100+ members focused on advancing skills in data science, analytics, and AI.
+- Managing communications and event logistics for a student organization of 50+ members focused on advancing skills in data science, analytics, and AI.
 - Coordinating workshops, speaker sessions, and hands-on learning opportunities with industry professionals in the business analytics domain.
-- Mentoring incoming members on professional development pathways and fostering a collaborative environment for technical project engagement.
+- Lead communications between members, faculty, and industry partners — ensuring transparency, engagement, and collaboration at every level.  
+- Help mentor and onboard new students into technical project opportunities, encouraging hands-on learning beyond the classroom.
 
 ---
